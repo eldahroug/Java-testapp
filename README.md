@@ -21,7 +21,7 @@ Steps are the following:
      * Do health check to make sure that the artifact is deployed
 
 3. Run 'docker build -t devopsarea .' <br />
-    TT
+
      * Will create a Docker image called devopsarea <br />
 
 4. Run 'docker run -d -p 8080:8080 --name devopsarea-sample-java-app devopsarea' <br />
