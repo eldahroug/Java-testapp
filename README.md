@@ -30,4 +30,3 @@ Steps are the following:
 5. Open [http://localhost:8080/devopsarea-1.0/](http://localhost:8080/devopsarea-1.0/) in your browser and see the result.
 
 
-
